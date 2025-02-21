@@ -97,16 +97,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/Streaming and Batch processing.md",
+                "file": "DSA/Google Problems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Streaming and Batch processing"
+              "title": "Google Problems"
+            }
+          },
+          {
+            "id": "1606af4a5403ba4e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       },
       {
         "id": "cfd78a833d7d106c",
@@ -154,7 +166,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "random",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -241,13 +253,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Design/Streaming and Batch processing.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Streaming and Batch processing"
+              "title": "Outline"
             }
           }
         ],
@@ -267,19 +278,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "09707400ec75bbfc",
+  "active": "1606af4a5403ba4e",
   "lastOpenFiles": [
-    "System Design/Job Scheduler.md",
-    "System Design/System Design Solution Formulation.md",
-    "System Design/Streaming and Batch processing.md",
-    "System Design/Apache Flink.md",
-    "DSA/Monotonic Stack.md",
-    "DSA/Arrays and BS/Tips and Tricks.md",
     "DSA/Graphs.md",
+    "DSA/Google Problems.md",
+    "DSA/Untitled.md",
+    "DSA/Arrays and BS/Tips and Tricks.md",
+    "DSA/Creating Data Structures.md",
+    "System Design/OS/Threads.md",
+    "System Design/OS/Processes.md",
+    "DSA/Linkedin.md",
+    "System Design/OS",
+    "2025-02-16.md",
+    "DSA/Dynamic Programming.md",
+    "DSA/Interview Like Questions.md",
+    "DSA/Heap.md",
+    "DSA/Strings.md",
+    "DSA/Monotonic Stack.md",
+    "System Design/Payment System.md",
+    "System Design/System Design Solution Formulation.md",
+    "LLD/Patterns.md",
+    "System Design/Streaming and Batch processing.md",
+    "LLD",
+    "System Design/Job Scheduler.md",
+    "System Design/Apache Flink.md",
     "Tagss/Batch processing.md",
     "Tagss",
     "System Design",
-    "DSA/Creating Data Structures.md",
     "Companies/Company List.md",
     "Companies",
     "Untitled.canvas",

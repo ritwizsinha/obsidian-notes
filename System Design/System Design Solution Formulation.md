@@ -1,11 +1,14 @@
 
-### Non Functional requirements
+
+### 1. Ask Functional Requirements
+
+### 2. Formulate Non Functional requirements
 Non functional requirements span the following requirements and could be learnt as
 ```
 CCS FLEDS
 ```
 
-Compliance, CAP, Scalability, Fault Tolerance, Latency, Environment, Durability and Spike in Load.
+Compliance, CAP, Scalability, Fault Tolerance, Latency, Environment, Durability and Spike in Load or Security.
 
 
 ### Low Latency Requirement
@@ -61,3 +64,5 @@ To ensure at least once guarantee for execution of some path, we can use job lea
 
 ### Dynamodb Trick
 For time sensitive data where we need to query the latest data, one solution is to partition on the bucket of time for example one hour and sort on the exact time. Thus we could get the latest events without querying various partitions
+
+

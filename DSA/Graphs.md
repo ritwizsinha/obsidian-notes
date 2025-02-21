@@ -42,7 +42,10 @@ In a graph problem always account for the fact that there could be multiple grap
 
 While pushing to the queue we peel layer by layer thus once we process one layer completely we only process the other one. This ensures that the number of elements pushed to the queue max is the width of a particular level. This is useful method of level order traversal in the array. This also allows us to replace a queue with a vector or array.
 
+### Finding all paths with the minimum path length
 
+Backtracking + BFS
+Create a graph using the nodes built from the BFS and then backtrack to create all the paths. The BFS graph ensures that whenever we reach the target word we 
 
 ### BFS through each node.
 BFS through each node would be O(N) *  O(N + M) in complexity not M^2. Be careful.
@@ -63,3 +66,17 @@ Here the complexity is bounded by K ie O(N + E.K). For each new node we iterate 
 
 
 ### Convert Multiplication to Log
+Just what the title says.
+
+
+### Kth smallest element in BST
+For frequent updates and deletes we can maintain a doubly linked list, or we can use an order statistic tree
+
+### Topo Sort
+The BFS method is simpler in terms of complex problems of topo sort compared to DFS.
+
+
+### DSU
+1. [Evaluate Division](https://leetcode.com/problems/evaluate-division/)
+
+
