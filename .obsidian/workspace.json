@@ -97,44 +97,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Google Problems.md",
+                "file": "System Design/Instagram.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Google Problems"
+              "title": "Instagram"
             }
           },
           {
-            "id": "1606af4a5403ba4e",
+            "id": "99536b3543dac452",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.7"
+                "file": "System Design/Youtube.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
+              "icon": "lucide-file",
+              "title": "Youtube"
+            }
+          },
+          {
+            "id": "2267084c7c14983c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/Linkedin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linkedin"
+            }
+          },
+          {
+            "id": "c8ad349037178433",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System Design/System Design Solution Formulation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "System Design Solution Formulation"
+            }
+          },
+          {
+            "id": "0a13eafa44111a6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System Design/System Design Solution Formulation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "System Design Solution Formulation"
             }
           }
         ],
         "currentTab": 7
-      },
-      {
-        "id": "cfd78a833d7d106c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d39af9eb49f10692",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -253,12 +281,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "System Design/Youtube.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Youtube"
             }
           }
         ],
@@ -278,41 +307,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1606af4a5403ba4e",
+  "active": "99536b3543dac452",
   "lastOpenFiles": [
-    "DSA/Graphs.md",
+    "System Design/Stock Exchange Or Robinhood.md",
+    "System Design/Youtube.md",
+    "System Design/Time Series Db..md",
+    "System Design/Robinhood.md",
+    "System Design/Data Structures For System Design.md",
+    "System Design/Instagram.md",
     "DSA/Google Problems.md",
-    "DSA/Untitled.md",
-    "DSA/Arrays and BS/Tips and Tricks.md",
-    "DSA/Creating Data Structures.md",
-    "System Design/OS/Threads.md",
-    "System Design/OS/Processes.md",
+    "LLD/Query and Filter Builder with pagination.md",
+    "System Design/Coderpad.md",
     "DSA/Linkedin.md",
-    "System Design/OS",
-    "2025-02-16.md",
-    "DSA/Dynamic Programming.md",
-    "DSA/Interview Like Questions.md",
-    "DSA/Heap.md",
-    "DSA/Strings.md",
-    "DSA/Monotonic Stack.md",
-    "System Design/Payment System.md",
     "System Design/System Design Solution Formulation.md",
-    "LLD/Patterns.md",
-    "System Design/Streaming and Batch processing.md",
-    "LLD",
-    "System Design/Job Scheduler.md",
+    "System Design/OS/Threads.md",
     "System Design/Apache Flink.md",
-    "Tagss/Batch processing.md",
+    "System Design/OS/Processes.md",
+    "System Design/OS/Little Book on Semaphores.md",
+    "System Design/Base Tech.md",
+    "DSA/Ranges.md",
+    "DSA/Trie.md",
+    "LLD/State Pattern.md",
+    "LLD/CPP Details.md",
+    "LLD/Coinbase.md",
+    "System Design/Whatsapp.md",
+    "System Design/Top K Problem.md",
+    "System Design/Streaming and Batch processing.md",
+    "System Design/Spell Checker.md",
+    "System Design/Linkedin Job Recommendation System.md",
+    "Pasted image 20250306171214.png",
+    "Pasted image 20250306175041.png",
+    "Untitled.canvas",
+    "Pasted image 20250306175035.png",
+    "Pasted image 20250306190933.png",
+    "System Design/OS",
+    "LLD",
     "Tagss",
     "System Design",
-    "Companies/Company List.md",
     "Companies",
-    "Untitled.canvas",
     "DSA/Arrays and BS",
     "Untitled",
     "DSA",
-    "Welcome.md",
-    "2024-12-08.md",
     "Notes",
     "Tags"
   ]

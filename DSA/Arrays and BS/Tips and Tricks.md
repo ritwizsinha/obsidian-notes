@@ -55,6 +55,8 @@ Always remember this case in events problems
 ------------------ A
 ------ B  ------- C
 
+Another kind of line sweep, is iterating through the intervals and keeping a list of interval opens which can be done using priority queue.
+
 
 #### Interval Questions
 1. [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
@@ -79,11 +81,13 @@ Here are some additional points to consider:
 ##### Custom Comparator in Upper bound
 In the upper bound function if we are doing a Binary search in a multidimensional vector, we don't need to provide other dimension default values, and instead can have a comparator.
 ```cpp
-```cpp
 [&](const int &target, const vector<int>&a) -> bool {
                 return target < a[1];
             }
 ```
-```
 
 Like this. This comparator returns the first element greater than target.
+
+##### Tricks in circular arrays
+1. For considering circular arrays either we append the string to itself and consider the resultant array
+2. We consider indexes from 0,n-2 and 1 n-1 like in House robber problem and compute for them separately

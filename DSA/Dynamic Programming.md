@@ -8,3 +8,7 @@ Dp can be applied after we topological sort the states. If there is a cycle then
 
 ### Top down over bottom up
 Sometimes top down calculates the states needed for the answer and is faster than the bottom up approach which requires going through every possible state.
+
+Top down is easier in the case where we are trying to find the max profit for choosing non intersecting intervals.
+
+Unless you are well aware about the bottom up don't do it.

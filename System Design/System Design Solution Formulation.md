@@ -5,10 +5,13 @@
 ### 2. Formulate Non Functional requirements
 Non functional requirements span the following requirements and could be learnt as
 ```
-CCS FLEDS
+CCS FLEDSD
 ```
 
-Compliance, CAP, Scalability, Fault Tolerance, Latency, Environment, Durability and Spike in Load or Security.
+Compliance, CAP, Scalability, Fault Tolerance, Latency, Environment, Durability and Spike in Load or Security and Delivery Constraints
+Politness of a system is another parameter, it can be defined as the realization that it is overwhelming the client and should change its behaviour accordingly.
+
+We also need to specify at least once/at most once delivery
 
 
 ### Low Latency Requirement

@@ -4,7 +4,7 @@ Only shares the code and data(initialized and uninitialized) with the main threa
 ##### Concurrency vs Parallelism
 Interleaving of tasks is concurrency, true running in different cpus is parallelism
 
-
+1
 #### Amdahll's law
 The percentage speedup when switching from a serial to parallel execution
 speedup <= 1 / (s + (1 - s) / N)

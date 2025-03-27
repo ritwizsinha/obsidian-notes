@@ -1,0 +1,1 @@
+1. The important point about condition variables and unique locks is that once the condition variable condition is true it acquires the lock until it goes out of scope. Thus it might give issues with code like multiplex.
