@@ -1,0 +1,16 @@
+1. https://www.youtube.com/@Reducible/videos
+2. https://www.youtube.com/@LowLevelTV/videos
+3. https://www.youtube.com/@codetothemoon/videos
+4. https://www.youtube.com/@Aleph0
+5. https://www.youtube.com/@hnasr
+6. https://www.youtube.com/@SebastianLague
+7. https://www.youtube.com/@acegikmo
+8. https://www.youtube.com/@Nemean
+9. https://www.youtube.com/@ArxivInsights
+10. https://www.youtube.com/@BartekSpitza
+11. https://www.youtube.com/watch?v=8-B6ryuBkCM
+12. https://www.youtube.com/@twoswap
+13. https://www.youtube.com/@bogxd
+14. https://www.youtube.com/@CoreDumpped
+15. https://www.youtube.com/@BenEater/videos
+16. https://www.youtube.com/@TechWithNikola/videos

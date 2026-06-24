@@ -1,0 +1,12 @@
+- After creating shorter content, we can kludge all of them together to a bigger and longer video.
+- In videos we can reference other videos, which are not made yet, forcing the user to go through the channel and its contents increasing visibility of the channel.
+-  **Modular videos** – make shorter standalone videos that can later be stitched into one long compilation.  
+- **Non-intimidating titles** – avoid “Part 32,” use standalone titles & thumbnails.  
+- . **SEO boosts** – add chapters for search visibility; place cards halfway to redirect viewers. 
+- **Cross-reference future videos** – mention videos (even if not out yet) to push viewers into your channel.  
+- **Mega compilations** – cut intros/outros, add new bookends, upload as one movie-length video. 
+- . **Audience targeting** – short videos for casual viewers, long compilations for binge-watchers. 
+-  **Playlists** – group episodes into playlists; YouTube pushes them and they trap watch time.  
+- **Higher CPM** – longer (45+ min) videos earn more per 1,000 views.  
+- **Content reuse** – same material in multiple formats = more reach without more effort.  
+- **Automation tools** – use extensions (e.g., YouTube Video Crawler) to streamline management.

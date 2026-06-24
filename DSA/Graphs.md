@@ -80,3 +80,10 @@ The BFS method is simpler in terms of complex problems of topo sort compared to 
 1. [Evaluate Division](https://leetcode.com/problems/evaluate-division/)
 
 
+### Complex BFS
+1. [Bus Routes](https://leetcode.com/problems/bus-routes/) : 0-1 BFS and graph building
+
+
+
+### Djikstra
+1.[Find Minimum Time to Reach Last Room II](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/)

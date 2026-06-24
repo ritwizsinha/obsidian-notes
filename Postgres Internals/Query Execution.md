@@ -1,0 +1,3 @@
+1. Common table expressions and the main query can be optimized separately; to guar- antee such behavior, you can specify the MATERIALIZED clause
+2. Subqueries run within non-SQL functions are always optimized separately
+3. Multi join of multiple tables is flattened by the planner, if there are multiple join_expr present under a join_expr node, those are flattened to their underlying values upto join_limit

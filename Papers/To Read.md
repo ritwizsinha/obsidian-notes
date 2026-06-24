@@ -1,0 +1,1 @@
+1. https://www.akkadia.org/drepper/nptl-design.pdf

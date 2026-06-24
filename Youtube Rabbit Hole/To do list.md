@@ -1,0 +1,2 @@
+- [x] Create a channel logo and banner
+- [ ] Research 
